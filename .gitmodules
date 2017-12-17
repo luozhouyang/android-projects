@@ -1,0 +1,3 @@
+[submodule "TabPagerLayout"]
+	path = TabPagerLayout
+	url = git@github.com:luozhouyang/TabPagerLayout.git
